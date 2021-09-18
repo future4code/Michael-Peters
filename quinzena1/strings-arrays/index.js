@@ -53,12 +53,12 @@ const listaDeTarefas = [1, 2, 3]
 const tarefasUsuario1 = prompt("digite a 1° tarefa do seu dia.")
 const tarefasUsuario2 = prompt("digite a 2° tarefa do seu dia.")
 const tarefasUsuario3 = prompt("digite a 3° tarefa do seu dia.")
-const lista1 =
-    const lista2 =
-        const lista3 =
-            //c) Imprima o array na tela
-            console.log(listaDeTarefas)
-            //d) Peça ao usuário que digite o **índice** de uma tarefa que ele já realizou: 0, 1 ou 2 
+const lista1 = [1]
+const lista2 = [2]
+const lista3 = [3]
+    //c) Imprima o array na tela
+console.log(listaDeTarefas)
+    //d) Peça ao usuário que digite o **índice** de uma tarefa que ele já realizou: 0, 1 ou 2 
 
 //e) Remova da lista o item de índice que o usuário escolheu.
 
