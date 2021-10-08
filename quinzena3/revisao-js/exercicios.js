@@ -1,16 +1,57 @@
 // EXERCÍCIO 01
-function inverteArray(array) {
+function inverteArray() {
+
+    // const numeros = [0, 8, 23, 16, 10, 15, 41, 12, 13]
+    // for (let index = 0; index > numeros.length; index--) {
+    //     console.log(index)
+    // }
+    // return index
 
 }
 
-
 // EXERCÍCIO 02
 function retornaNumerosParesElevadosADois(array) {
+
+    // const numer = [1, 2, 3, 4, 5, 6]
+
+    // function verificarPareslevados() {
+
+    //     let Npares = numer % 2 === 0
+
+    //     if (Npares) {
+    //         let confirmacaoPar = Npares * Npares
+    //         console.log(confirmacaoPar)
+
+    //     }
+    //     return confirmacaoPar = Npares * numer
+    // }
+
+    // verificarPareslevados()
 
 }
 
 // EXERCÍCIO 03
 function retornaNumerosPares(array) {
+
+    //     const numeros = [1, 2, 3, 4, 5, 6]
+
+    //     function verificarPares() {
+
+    //         let Npares = numeros % 2 === 0
+
+    //         if (Npares) {
+
+    //             let Npares = numeros % 2 === 0
+    //             let confirmacaoPar = Npares * Npares
+    //             console.log(confirmacaoPar)
+    //             return confirmacaoPar = Npares * Npares
+    //         }
+    //     }
+    //     verificarPares()
+    // 
+
+
+
 
 }
 
