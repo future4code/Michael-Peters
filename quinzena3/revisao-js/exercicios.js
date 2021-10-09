@@ -1,68 +1,65 @@
 // EXERCÍCIO 01
-function inverteArray() {
+function inverteArray(array) {
 
-    // const numeros = [0, 8, 23, 16, 10, 15, 41, 12, 13]
-    // for (let index = 0; index > numeros.length; index--) {
-    //     console.log(index)
+    // let inverter = []
+    // for (let i = array.length - 1; i >= 0; i--) {
+    //     inverter.push(array[i])
     // }
-    // return index
 
+    // return inverter
 }
 
 // EXERCÍCIO 02
 function retornaNumerosParesElevadosADois(array) {
+    // const arrayNumeros = []
 
-    // const numer = [1, 2, 3, 4, 5, 6]
 
-    // function verificarPareslevados() {
-
-    //     let Npares = numer % 2 === 0
-
-    //     if (Npares) {
-    //         let confirmacaoPar = Npares * Npares
-    //         console.log(confirmacaoPar)
-
+    // for (let item of array) {
+    //     if (item % 2 === 0) {
+    //         const mult2 = item * item
+    //         arrayNumeros.push(mult2)
     //     }
-    //     return confirmacaoPar = Npares * numer
     // }
-
-    // verificarPareslevados()
-
+    // return arrayNumeros
 }
 
 // EXERCÍCIO 03
 function retornaNumerosPares(array) {
 
-    //     const numeros = [1, 2, 3, 4, 5, 6]
+    // let retornarNUmerosPares = []
 
-    //     function verificarPares() {
+    // for (let item of array) {
 
-    //         let Npares = numeros % 2 === 0
+    //     if (item % 2 == 0) {
 
-    //         if (Npares) {
-
-    //             let Npares = numeros % 2 === 0
-    //             let confirmacaoPar = Npares * Npares
-    //             console.log(confirmacaoPar)
-    //             return confirmacaoPar = Npares * Npares
-    //         }
+    //         retornarNUmerosPares.push(item)
     //     }
-    //     verificarPares()
-    // 
-
-
-
-
+    // }
+    // return retornarNUmerosPares
 }
 
 // EXERCÍCIO 04
 function retornaMaiorNumero(array) {
+    // const numeros = []
+
+    // let maior = 0;
+
+    // // while (i < numeros.lenght) {
+    // //     if (numeros[i] > maior) {
+    // //         maior = numeros[i]
+    // //     }
+    // //     i++
+    // // }
+    // // return maior
+
+
 
 }
 
+
 // EXERCÍCIO 05
 function retornaQuantidadeElementos(array) {
-
+    // return array.length
 }
 
 // EXERCÍCIO 06
