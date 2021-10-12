@@ -64,7 +64,10 @@ function retornaQuantidadeElementos(array) {
 
 // EXERCÍCIO 06
 function retornaExpressoesBooleanas() {
-
+    let returnNumerosBoleanos = []
+    for (let item of array)
+        if (item === true)
+            return item
 }
 
 // EXERCÍCIO 07
